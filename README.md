@@ -20,7 +20,14 @@
 </p><br>
 
 <h2 align="center">💻 Tech Stack</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&theme=dark" />
+</p>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description |
 |---------|-------------|
