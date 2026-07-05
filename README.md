@@ -49,12 +49,39 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&theme=dark" />
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=DeveshSakre"/>
+
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-| Project | Description |
-|---------|-------------|
-| 📱 MediLink | Healthcare Android App |
-| 💰 SpendWise | Expense Tracker |
-| 🏗 LocalFix | Urban Company Clone |
-| 📈 Stock Forecaster | AI Stock Predictor |
+## 📱 MediLink
+> 🏥 Healthcare management application with appointment booking, medicine reminders, and patient records.
+
+**Tech Stack:** Kotlin • Jetpack Compose • Firebase
+
+---
+
+## 💰 SpendWise
+> 💸 Smart expense tracker with budgeting, analytics, and monthly reports.
+
+**Tech Stack:** Kotlin • Room Database • MVVM
+
+---
+
+## 🏗️ LocalFix
+> 🔧 Urban Company-inspired platform connecting users with trusted local service providers.
+
+**Tech Stack:** Kotlin • Firebase • Google Maps
+
+---
+
+## 📈 Stock Forecaster
+> 🤖 Machine Learning model that predicts stock prices using technical indicators and historical market data.
+
+**Tech Stack:** Python • TensorFlow • Scikit-learn
+
+---
+
+## 🛡️ BrokerMint
+> 📊 Intelligent compliance platform for brokers featuring anomaly detection, eKYC, and automated regulatory reporting.
+
+**Tech Stack:** Python • Flask • Machine Learning
