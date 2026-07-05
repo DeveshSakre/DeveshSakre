@@ -1,16 +1,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1100&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Devesh+Sakre;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+GenAI;Building+Apps+That+Solve+Real+Problems;Hackathon+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" /></a>
 
-<!--
-**DeveshSakre/DeveshSakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Final Year CSE Student
+
+📱 Android Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+🏆 Hackathon Builder
+
+🌱 Currently learning Spring Boot & GenAI
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devesh sakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh sakre" height="30" width="40" /></a>
+</p>
