@@ -18,3 +18,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-sakre-8972542b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devesh-sakre-8972542b7/" height="30" width="40" /></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&theme=light)](https://skillicons.dev)
