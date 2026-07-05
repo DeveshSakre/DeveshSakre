@@ -14,9 +14,17 @@
 🌱 Currently learning Spring Boot & GenAI
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-sakre-8972542b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devesh-sakre-8972542b7/" height="30" width="40" /></a>
-</p>
+</p><br>
 
+<h2 align="center">💻 Tech Stack</h2>
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&theme=light)](https://skillicons.dev)
+
+| Project | Description |
+|---------|-------------|
+| 📱 MediLink | Healthcare Android App |
+| 💰 SpendWise | Expense Tracker |
+| 🏗 LocalFix | Urban Company Clone |
+| 📈 Stock Forecaster | AI Stock Predictor |
