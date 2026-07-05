@@ -41,7 +41,7 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,docker,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,docker,git,github&theme=dark" />
 </p>
 
 ### 💻 Programming Languages
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&theme=dark" />
 </p>
 <br>
-
+<img src="https://github-readme-stats.vercel.app/api?username=DeveshSakre"/>
 <h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description |
