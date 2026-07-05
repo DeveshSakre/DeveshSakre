@@ -20,10 +20,8 @@
 </p><br>
 
 <h2 align="center">💻 Tech Stack</h2>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&perline=4)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,cpp,firebase,mysql,tensorflow,git,github&theme=dark" />
-</p>
 
 <br>
 
