@@ -295,3 +295,177 @@ aqi_forecast = 148
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
 
 </div>
+
+<!-- ========================================================= -->
+<!--                  EXPERIENCE LOG                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> `> git log --career --graph`
+
+```text
+* commit e8a1f7b (HEAD -> main)
+
+Author: Devesh Sakre <devsakre30@gmail.com>
+
+Date: Present
+
+feat: Android Engineer & AI Enthusiast
+
+- Building production-ready Android applications
+- Exploring AI-powered mobile experiences
+- Learning scalable backend development with Spring Boot
+- Working on Machine Learning & GenAI projects
+
+---------------------------------------------------------------
+
+* commit b7c84a2
+
+Author: Devesh Sakre
+
+Date: 2025
+
+feat: Developed MediLink
+
+- Healthcare platform
+- Firebase Authentication
+- Appointment Scheduling
+- Patient Records
+- Jetpack Compose UI
+
+---------------------------------------------------------------
+
+* commit 2de92f0
+
+Author: Devesh Sakre
+
+Date: 2025
+
+feat: Built SpendWise
+
+- Smart Expense Tracker
+- Room Database
+- Budget Analytics
+- Material Design UI
+
+---------------------------------------------------------------
+
+* commit 11d39af
+
+Author: Devesh Sakre
+
+Date: 2024
+
+feat: Started Android Development Journey 🚀
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"/> `> cat achievements.log`
+
+<div align="center">
+
+| 🏆 Achievement | Status |
+|---------------|--------|
+| Android Development | 🚀 Active |
+| Machine Learning Projects | ✅ Completed |
+| AI & GenAI Learning | 📚 Ongoing |
+| Spring Boot Learning | 🌱 In Progress |
+| Open Source Contributions | 💻 Growing |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> `> ./dashboard --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeveshSakre&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshSakre&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshSakre&theme=dark&hide_border=true&background=0d1117&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DeveshSakre&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=4"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveshSakre&bg_color=0d1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> `> currently_learning.sh`
+
+<div align="center">
+
+```text
+█████████████████████████████████████
+
+Android Architecture
+
+████████████████████░░░░░░░ 80%
+
+Jetpack Compose
+
+███████████████████████░░░░ 90%
+
+Spring Boot
+
+███████████████░░░░░░░░░░░░ 60%
+
+Spring AI
+
+███████████░░░░░░░░░░░░░░░░ 40%
+
+Machine Learning
+
+██████████████████████░░░░░ 85%
+
+Generative AI
+
+███████████████████░░░░░░░░ 75%
+
+Open Source
+
+█████████████░░░░░░░░░░░░░░ 50%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
+
+</div>
