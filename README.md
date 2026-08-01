@@ -460,6 +460,58 @@ Open Source
 █████████████░░░░░░░░░░░░░░ 50%
 ```
 
+---
+
+<div align="center">
+
+# 🐍 `> contribution_snake.sh`
+
+<img src="https://raw.githubusercontent.com/DeveshSakre/DeveshSakre/output/github-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 `> connect --with Devesh`
+
+<a href="https://www.linkedin.com/in/devesh-sakre-8972542b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:devsakre30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DeveshSakre">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      "Great software isn't just written—it's crafted.        ║
+║      Build with purpose. Learn without limits."              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:0F0C29&height=150&section=footer"/>
+
+</div>
 </div>
 
 ---
