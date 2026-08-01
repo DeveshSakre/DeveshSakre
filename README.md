@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=DEVESH%20SAKRE&fontSize=56&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Android%20Engineer%20•%20AI%20Enthusiast%20•%20Building%20Intelligent%20Apps&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=DEVESH%20SAKRE&fontSize=58&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Android%20Engineer%20•%20AI%20Enthusiast%20•%20Building%20Intelligent%20Apps&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%3E+booting_android_engine.exe...;%3E+loading+Jetpack+Compose+modules...;%3E+connecting+AI+models...;%3E+status%3A+READY+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00FFD1&center=true&vCenter=true&width=950&height=70&lines=%3E+Android+Engineer+%F0%9F%93%B1;%3E+Building+Intelligent+Apps+%F0%9F%A4%96;%3E+Kotlin+%E2%80%A2+Jetpack+Compose;%3E+Spring+Boot+%E2%80%A2+GenAI;%3E+Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -16,9 +16,17 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DeveshSakre&style=for-the-badge&color=0F0C29&label=PROFILE+VIEWS&labelColor=00FFD1)](https://github.com/DeveshSakre)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/devesh-sakre-8972542b7/)
-[![Gmail](https://img.shields.io/badge/GMAIL-devsakre30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:devsakre30@gmail.com)
+<a href="https://github.com/DeveshSakre">
+<img src="https://komarev.com/ghpvc/?username=DeveshSakre&style=for-the-badge&color=0F0C29&label=PROFILE+VIEWS&labelColor=00FFD1"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devesh-sakre-8972542b7/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="mailto:devsakre30@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-devsakre30@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
 
 </div>
 
@@ -27,8 +35,6 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `> whoami --verbose`
 
 ```yaml
-> initializing profile...
-
 name        : Devesh Sakre
 
 role        : Android Engineer • AI Enthusiast
@@ -49,17 +55,16 @@ currently_learning :
   - LLM Applications
 
 focus :
-  Building Android apps and AI-powered solutions
-  that solve real-world problems.
+  Building Android apps and AI-powered
+  solutions that solve real-world problems.
 
 philosophy :
-  "Great software isn't just built—it is crafted
-   with empathy, performance, and purpose."
+  "Code with purpose.
+   Learn continuously.
+   Build products that matter."
 
-status : READY ✓
+status : ONLINE 🟢
 ```
-
----
 
 <div align="center">
 
@@ -94,7 +99,6 @@ status : READY ✓
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
 
 </div>
-
 <!-- ========================================================= -->
 <!--                     TECH STACK                            -->
 <!-- ========================================================= -->
