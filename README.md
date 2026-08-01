@@ -1,55 +1,99 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1100&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Devesh+Sakre;Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+GenAI;Building+Apps+That+Solve+Real+Problems;Hackathon+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" /></a>
+<!-- ========================================================= -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================= -->
 
+<div align="center">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=DEVESH%20SAKRE&fontSize=56&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Android%20Engineer%20•%20AI%20Enthusiast%20•%20Building%20Intelligent%20Apps&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
 
-🎓 Final Year CSE Student
+<br/>
 
-📱 Android Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%3E+booting_android_engine.exe...;%3E+loading+Jetpack+Compose+modules...;%3E+connecting+AI+models...;%3E+status%3A+READY+%F0%9F%9A%80" />
 
-🤖 AI & Machine Learning Enthusiast
+<br/><br/>
 
-🏆 Hackathon Builder
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
 
-🌱 Currently learning Spring Boot & GenAI
+<br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=DeveshSakre&style=for-the-badge&color=0F0C29&label=PROFILE+VIEWS&labelColor=00FFD1)](https://github.com/DeveshSakre)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/devesh-sakre-8972542b7/)
+[![Gmail](https://img.shields.io/badge/GMAIL-devsakre30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:devsakre30@gmail.com)
 
-<h2 align="center">🌐 Connect with Me</h2>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/devesh-sakre-8972542b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-sakre-8972542b7/" height="30" width="40" /></a>
-</p>
+---
 
-<br>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `> whoami --verbose`
 
-<h2 align="center">💻 Tech Stack</h2>
+```yaml
+> initializing profile...
 
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&theme=dark" />
-</p>
+name        : Devesh Sakre
 
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn&theme=dark" />
-</p>
+role        : Android Engineer • AI Enthusiast
 
-### 🌐 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb&theme=dark" />
-</p>
+education   : Final Year B.Tech Computer Science
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,docker,git,github&theme=dark" />
-</p>
+speciality  :
+  - Native Android Development
+  - Jetpack Compose
+  - Firebase
+  - Machine Learning
+  - Generative AI
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&theme=dark" />
-</p>
-<br>
+currently_learning :
+  - Spring Boot
+  - Spring AI
+  - Advanced Android Architecture
+  - LLM Applications
 
+focus :
+  Building Android apps and AI-powered solutions
+  that solve real-world problems.
+
+philosophy :
+  "Great software isn't just built—it is crafted
+   with empathy, performance, and purpose."
+
+status : READY ✓
+```
+
+---
+
+<div align="center">
+
+### 💡 *Building Android experiences powered by AI.*
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> `> connect --social`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/devesh-sakre-8972542b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:devsakre30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DeveshSakre">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+
+</div>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
