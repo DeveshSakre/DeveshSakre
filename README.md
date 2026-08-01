@@ -95,37 +95,203 @@ status : READY ✓
 
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
-## 📱 MediLink
-> 🏥 Healthcare management application with appointment booking, medicine reminders, and patient records.
+<div align="center">
 
-**Tech Stack:** Kotlin • Jetpack Compose • Firebase
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+
+</div>
+
+# <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> `> ls -la /core_modules`
+
+<div align="center">
+
+## 📱 Android Development
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,gradle&theme=dark"/>
+
+<br/><br/>
+
+## 🤖 Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GenAI-00FFD1?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine_Learning-302B63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<br/><br/>
+
+## 🌐 Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb&theme=dark"/>
+
+<br/><br/>
+
+## ☁️ Cloud • DevOps • Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,firebase&theme=dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                 CURRENTLY LEARNING                        -->
+<!-- ========================================================= -->
+
+# <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="30"/> `> cat learning.log`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_AI-00FFD1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0F0C29?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 💰 SpendWise
-> 💸 Smart expense tracker with budgeting, analytics, and monthly reports.
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
 
-**Tech Stack:** Kotlin • Room Database • MVVM
+# <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> `> cat /projects --featured`
+
+<details open>
+
+<summary><b>🏥 MediLink — Smart Healthcare Platform</b> <code>[Android • Firebase]</code></summary>
+
+<br/>
+
+> **Tech Stack:** Kotlin • Jetpack Compose • Firebase • MVVM
+
+- 📅 Appointment booking system
+- 💊 Medicine reminders
+- 🩺 Patient medical records
+- 🔒 Secure Firebase Authentication
+- ☁️ Cloud Firestore integration
+
+```kotlin
+val app = MediLink(
+    language = "Kotlin",
+    ui = "Jetpack Compose",
+    backend = "Firebase",
+    architecture = "MVVM"
+)
+```
+
+🔗 **GitHub:** *Add repository link here*
+
+</details>
 
 ---
 
-## 🏗️ LocalFix
-> 🔧 Urban Company-inspired platform connecting users with trusted local service providers.
+<details>
 
-**Tech Stack:** Kotlin • Firebase • Google Maps
+<summary><b>💸 SpendWise — Personal Expense Tracker</b> <code>[Android]</code></summary>
+
+<br/>
+
+> **Tech Stack:** Kotlin • Room Database • MVVM
+
+- 📈 Expense analytics
+- 💰 Monthly budgeting
+- 📊 Category-wise reports
+- 📅 Transaction history
+- 🌙 Material Design UI
+
+🔗 **GitHub:** *Add repository link here*
+
+</details>
 
 ---
 
-## 📈 Stock Forecaster
-> 🤖 Machine Learning model that predicts stock prices using technical indicators and historical market data.
+<details>
 
-**Tech Stack:** Python • TensorFlow • Scikit-learn
+<summary><b>🔧 LocalFix — Home Services Platform</b> <code>[Android]</code></summary>
+
+<br/>
+
+> **Tech Stack:** Kotlin • Firebase • Google Maps
+
+- 📍 Nearby service providers
+- ⭐ Ratings & Reviews
+- 📅 Service booking
+- 💬 Chat system
+- 📲 Real-time updates
+
+🔗 **GitHub:** *Add repository link here*
+
+</details>
 
 ---
 
-## 🛡️ BrokerMint
-> 📊 Intelligent compliance platform for brokers featuring anomaly detection, eKYC, and automated regulatory reporting.
+<details>
 
-**Tech Stack:** Python • Flask • Machine Learning
+<summary><b>📈 Stock Forecaster — AI Prediction System</b> <code>[Machine Learning]</code></summary>
+
+<br/>
+
+> **Tech Stack:** Python • TensorFlow • Scikit-Learn
+
+- 📊 Time-series forecasting
+- 📉 Technical indicators
+- 🤖 ML prediction models
+- 📈 Data visualization
+
+```python
+prediction = model.predict(stock_data)
+
+confidence = 92.4
+```
+
+🔗 **GitHub:** *Add repository link here*
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🛡️ BrokerMint — Compliance Intelligence Platform</b> <code>[AI + Backend]</code></summary>
+
+<br/>
+
+> **Tech Stack:** Python • Flask • Machine Learning
+
+- 🤖 Fraud detection
+- 📑 eKYC verification
+- 📊 Compliance automation
+- 🔍 Risk analysis
+
+🔗 **GitHub:** *Add repository link here*
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+
+</div>
