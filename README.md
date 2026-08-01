@@ -200,7 +200,7 @@ val app = MediLink(
 )
 ```
 
-🔗 **GitHub:** *Add repository link here*
+🔗 **GitHub:** https://github.com/DeveshSakre/MediLink
 
 </details>
 
@@ -220,7 +220,7 @@ val app = MediLink(
 - 📅 Transaction history
 - 🌙 Material Design UI
 
-🔗 **GitHub:** *Add repository link here*
+🔗 **GitHub:** https://github.com/DeveshSakre/SpendWise
 
 </details>
 
@@ -240,7 +240,7 @@ val app = MediLink(
 - 💬 Chat system
 - 📲 Real-time updates
 
-🔗 **GitHub:** *Add repository link here*
+🔗 **GitHub:** https://github.com/DeveshSakre/LocalFix
 
 </details>
 
@@ -248,24 +248,24 @@ val app = MediLink(
 
 <details>
 
-<summary><b>📈 Stock Forecaster — AI Prediction System</b> <code>[Machine Learning]</code></summary>
+<summary><b>🌍 AirPulse AI — Urban Air Quality Intelligence Platform</b> <code>[AI + Machine Learning]</code></summary>
 
 <br/>
 
-> **Tech Stack:** Python • TensorFlow • Scikit-Learn
+> **Tech Stack:** Python • FastAPI • TensorFlow • XGBoost • React • TypeScript
 
-- 📊 Time-series forecasting
-- 📉 Technical indicators
-- 🤖 ML prediction models
-- 📈 Data visualization
+- 🌫️ Real-time AQI monitoring
+- 📈 24/48/72-hour AQI forecasting
+- 🧠 Pollution source attribution
+- 🤖 AI-powered health & decision support
 
 ```python
-prediction = model.predict(stock_data)
+forecast = model.predict(environmental_data)
 
-confidence = 92.4
+aqi_forecast = 148
 ```
 
-🔗 **GitHub:** *Add repository link here*
+🔗 **GitHub:** https://github.com/DeveshSakre/AirPulse-AI
 
 </details>
 
@@ -284,7 +284,7 @@ confidence = 92.4
 - 📊 Compliance automation
 - 🔍 Risk analysis
 
-🔗 **GitHub:** *Add repository link here*
+🔗 **GitHub:** https://github.com/DeveshSakre/BrokerMint
 
 </details>
 
