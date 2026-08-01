@@ -100,57 +100,92 @@ status : ONLINE 🟢
 
 </div>
 <!-- ========================================================= -->
-<!--                     TECH STACK                            -->
+<!--                      TECH STACK                           -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
 
 </div>
 
 # <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> `> ls -la /core_modules`
 
-<div align="center">
+---
 
 ## 📱 Android Development
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,gradle&theme=dark"/>
+<p align="center">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-## 🤖 Artificial Intelligence
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/GenAI-00FFD1?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine_Learning-302B63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
-<br/><br/>
+---
+
+## 🤖 AI • Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GenAI-00FFD1?style=for-the-badge"/>
+
+</p>
+
+---
 
 ## 🌐 Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb&theme=dark"/>
+<p align="center">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-## ☁️ Cloud • DevOps • Tools
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,firebase&theme=dark"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ DevOps • Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00FFD1&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900"/>
 
 </div>
-
 <!-- ========================================================= -->
 <!--                 CURRENTLY LEARNING                        -->
 <!-- ========================================================= -->
@@ -203,8 +238,7 @@ val app = MediLink(
     architecture = "MVVM"
 )
 ```
-
-🔗 **GitHub:** https://github.com/DeveshSakre/MediLink
+🔗 **GitHub:**  https://github.com/DeveshSakre/MediLink
 
 </details>
 
